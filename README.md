@@ -2,5 +2,5 @@
 
 ## Pzelicznik walut
 
-###DEMO
+### DEMO
 https://bulld00.github.io/CurrencyConverter/
