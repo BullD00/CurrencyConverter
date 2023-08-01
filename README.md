@@ -1,1 +1,3 @@
 # CurrencyConverter
+
+## Pzelicznik walut
